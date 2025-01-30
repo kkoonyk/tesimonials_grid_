@@ -39,7 +39,9 @@
       
       .item_1 {
         min-height: 280px;
-        background-position: top 0 right 3%; 
+        background-image: url(../images/brackets.svg);
+        background-position: top 0 right 16%;
+        
 
       }
       .item_1 p{
